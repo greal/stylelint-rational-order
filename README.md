@@ -1,5 +1,4 @@
 # Positioning
-
 - position
 - top
 - right
@@ -9,7 +8,6 @@
 
 
 # Box Model
-
 - display
 - flex
 - flex-grow
@@ -61,8 +59,6 @@
 - padding-right
 - padding-bottom
 - padding-left
-
-
 - border
 - border-width
 - border-style
@@ -96,15 +92,11 @@
 - border-image-repeat
 - border-collapse
 - border-spacing
-
-
 - overflow
 - overflow-x
 - overflow-y
 
-
 # Typography
-
 - color
 - font
 - font-weight
@@ -163,9 +155,7 @@
 - page-break-inside
 - src
 
-
 # Visual
-
 - list-style
 - list-style-position
 - list-style-type
@@ -204,9 +194,7 @@
 - filter
 - backdrop-filter
 
-
 # Animation
-
 - transition
 - transition-delay
 - transition-timing-function
@@ -222,9 +210,7 @@
 - animation-direction
 - animation-fill-mode
 
-
 # Misc
-
 - appearance
 - clip
 - clip-path
@@ -246,7 +232,6 @@
 - fill-rule
 - clip-rule
 - stroke
-
 
 ---
 
